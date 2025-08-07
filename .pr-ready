@@ -1,0 +1,11 @@
+This branch is ready for Pull Request creation.
+
+Branch: dev-scm-graph-formatting
+Features: SCM History Graph Formatting Implementation
+Date: 2025-01-27
+
+Key Components:
+- scmHistoryViewPane.ts: Main UI component for history visualization
+- util.ts: Formatting utilities for history items
+- scmHistory.ts: Graph rendering engine
+- Comprehensive theming and accessibility support
